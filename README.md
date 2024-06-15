@@ -1,6 +1,6 @@
 # England T20I Team Optimization
 
-![England Logo](england_logo.png)
+![England Logo](England_cricket_team_logo.svg.png)
 
 
 ## Project Goal
