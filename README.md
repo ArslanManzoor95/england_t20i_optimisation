@@ -1,5 +1,8 @@
 # England T20I Team Optimization
 
+![England Logo](england_logo.png)
+
+
 ## Project Goal
 
 Develop a data-driven approach to explore and select the optimal batting and bowling lineups for the England T20I team, maximizing their chances of success in the 2024 T20 World Cup.
